@@ -1,5 +1,6 @@
 x=0
 y=0
+
 def on_button_pressed_a():
     while True:
         global x, y
